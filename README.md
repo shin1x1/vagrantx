@@ -7,6 +7,10 @@ the Vagrant GUI client for Mac OS X
 
 ## changelog
 
+### 0.2.0 (May 28, 2014)
+
+  - replace logo made by Tomohisa Nozawa
+
 ### 0.1.1 (December 29, 2013)
 
   - rebuild in Core 2 Duo enviroment for RubyMotion 2.17 issue 
