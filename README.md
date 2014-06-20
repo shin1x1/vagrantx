@@ -4,8 +4,11 @@ the Vagrant GUI client for Mac OS X
 
 * github pages http://shin1x1.github.io/vagrantx/
 
+## Changelog
 
-## changelog
+### Jun 29, 2014
+
+  - push source code
 
 ### 0.2.0 (May 28, 2014)
 
