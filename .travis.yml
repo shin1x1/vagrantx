@@ -1,0 +1,15 @@
+language: objective-c
+before_install:
+  - (ruby --version)
+  - sudo chown -R travis ~/Library/RubyMotion
+  - mkdir -p ~/Library/RubyMotion/build
+  - sudo motion update
+script:
+  - bundle install
+  - bundle exec rake clean
+  - bundle exec rake spec osx=true
+notifications:
+  emails:
+    - shin1x1@gmail.com
+  on_success: always # default: change
+  on_failure: always
