@@ -1,10 +1,16 @@
 # VagrantX
 
+[![Build Status](https://travis-ci.org/shin1x1/vagrantx.svg?branch=master)](https://travis-ci.org/shin1x1/vagrantx)
+
 the Vagrant GUI client for Mac OS X
 
 * github pages http://shin1x1.github.io/vagrantx/
 
 ## Changelog
+
+### Jul 15, 2014
+
+  - add ci with Travis CI 
 
 ### Jun 29, 2014
 
